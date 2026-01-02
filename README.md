@@ -1,7 +1,9 @@
 🩸 Blood Bank Management System
 
 A modern, full-stack Blood Bank Management System built using React (Vite), Tailwind CSS, Supabase, and Framer Motion.
-The platform connects blood donors, patients, and administrators through a secure, fast, and user-friendly web interface.
+The platform connects blood donors, patients, and administrators through a secure, fast, and user-friendly web interface
+
+🌐 Live Demo: https://bloodbank-amber.vercel.app/
 
 🚀 Live Features Overview
 🌐 Public Features
